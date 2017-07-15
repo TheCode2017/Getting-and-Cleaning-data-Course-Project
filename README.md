@@ -9,7 +9,7 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 
 3.Extract only the measurements on the mean and standard deviation for each measurement.
 
-4.Getting the train data(subject_train.txt,X_train.txt,y_train.txt).
+4.Gett the train data(subject_train.txt,X_train.txt,y_train.txt).
 
 5.Get the test data(subject_test.txt,X_test.txt,y_test.txt).
 
@@ -21,6 +21,6 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 
 9.Merges train and test(rowwise).
 
-10.Calculating average of each variable for each activity and subject to generate the tidy datatset.
+10.Calculates average of each variable for each activity and subject to generate the tidy datatset.
 
-11.Saving the tidy dataset to a text file.
+11.Saves the tidy dataset to a text file.
