@@ -3,13 +3,13 @@
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 
-1.Download the Samsung dataset from the link provided.
+1.Download the Samsung dataset from the link provided.(https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones).
 
 2.Load the activity and feature info(activity_labels.txt and features.txt).
 
 3.Extract only the measurements on the mean and standard deviation for each measurement.
 
-4.Gett the train data(subject_train.txt,X_train.txt,y_train.txt).
+4.Get the train data(subject_train.txt,X_train.txt,y_train.txt).
 
 5.Get the test data(subject_test.txt,X_test.txt,y_test.txt).
 
